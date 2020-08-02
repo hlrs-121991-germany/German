@@ -1,0 +1,37 @@
+Im house artickel
+----------------------
+Teppich
+sessel
+decke
+wand
+Decke
+Treppe
+Heizug
+Regal
+Dach
+Herd
+Fensterbank
+Fussboden
+
+Wann ist dein Geburtstag?
+Wann hast du Geburtstag?
+
+Mein Geburtstag ist am 24.10. (vierundzwanzigsten zehnten)
+Ich habe am 24.10. Geburtstag.
+Ich habe am dritten zwölften Geburtstag.
+Mein Geburtstag ist am siebten zweiten.
+Ich habe am neunten August. (August is noun, so no change)
+	neunten is an adjective, so it is changing
+	Some nouns have special declension for dative case 
+am + Dative
+
+für + accusative
+
+wann?
+im Month = in + dem
+um 15Uhr
+am day + Month
+
+
+
+

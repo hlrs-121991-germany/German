@@ -1,0 +1,21 @@
+A
+--
+A - Ananas
+A - Apfel
+A - Nase
+
+N
+----
+N - Nase
+N - Banana
+
+die  Nase
+- Luan, ist meine Nase klein?
+- Ja, Mel! Du hast eine kleine Nase.
+
+die Banane
+Ich brauche 9 Bananen, aber ich habe nur eine Banane.
+nur singular, ohne artikel
+
+Mel, wo finde ich die Information über Berlin?
+- Die Information findest du im Internet.
